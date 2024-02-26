@@ -1,0 +1,55 @@
+<div id="business-unit-title" class="">
+    <h1 class="typography_default__hIMlQ typography_appearance-default__AAY17 title_title__i9V__">
+        <span class="typography_display-s__qOjh6 typography_appearance-default__AAY17 title_displayName__TtDDM">Gullwing
+            Motor<!-- -->&nbsp;
+        </span>
+        <span class="typography_body-l__KUYFJ typography_appearance-subtle__8_H2l title_rating__LANL_">Reviews</span>
+    </h1>
+    <span role="link" tabindex="0" class="styles_clickable__zQWyh">
+        <span class="typography_body-l__KUYFJ typography_appearance-subtle__8_H2l styles_text__W4hWi">1,460<!-- -->&nbsp;<!-- -->
+            •  <!-- -->&nbsp;<!-- -->Excellent
+        </span>
+    </span>
+    <div class="styles_container__OaEK8" data-nosnippet="false">
+        <div role="link" tabindex="0" class="styles_rating__uyC6m styles_clickable__uWsnU styles_rating__NPyeH"
+             data-rating-component="true">
+            <div class="star-rating_starRating__4rrcf star-rating_medium__iN6Ty">
+                <img alt="TrustScore 5 out of 5" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg">
+            </div>
+            <p class="typography_body-l__KUYFJ typography_appearance-subtle__8_H2l" data-rating-typography="true">4.9
+            </p>
+        </div>
+        <span class="styles_tooltipWrapper__ZUQzl">
+            <span>
+                <svg viewBox="0 0 16 16" fill="#6C6C85" class="icon_icon__ECGRl" xmlns="http://www.w3.org/2000/svg"
+                     width="16px" height="16px">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M8 1a7 7 0 1 0 0 14A7 7 0 0 0 8 1ZM0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Z"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M7.5 7h-.75V6H8.5v5.502h.75v1h-2.5v-1h.75V7ZM6.75 4a1 1 0 1 1 2 0 1 1 0 0 1-2 0Z"></path>
+                </svg>
+            </span>
+        </span>
+    </div>
+    <span>
+        <button class="styles_verificationLabel__kukuk">
+            <div class="typography_body-xs__FxlLP typography_appearance-default__AAY17 typography_weight-heavy__E1LTj styles_verificationIcon___X7KO"
+                 weight="heavy">
+                <svg viewBox="0 0 16 16" fill="inherit" class="icon_icon__ECGRl icon_appearance-positive__4px2T"
+                     xmlns="http://www.w3.org/2000/svg" width="12px" height="12px">
+                    <path class="ic-verified-user"
+                          d="M1 3a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v7.989a2 2 0 0 1-1.298 1.873l-5 1.875c-.453.17-.951.17-1.404 0l-5-1.875A2 2 0 0 1 1 10.989V3Z"></path>
+                    <path class="ic-verified-user-check"
+                          d="M11.618 6.12a.875.875 0 1 0-1.236-1.24L7.03 8.22 5.66 6.647a.875.875 0 0 0-1.32 1.15l1.768 2.03c.041.047.086.089.135.125a.875.875 0 0 0 1.364.163l4.01-3.995Z"></path>
+                </svg>
+                VERIFIED COMPANY
+            </div>
+        </button>
+    </span>
+    <p class="typography_body-m__xgxZ_ typography_appearance-subtle__8_H2l styles_mobileBreadcrumb__RLRmY">In the <a
+            href="/categories/car_dealer" target="_self"
+            class="link_internal__7XN06 typography_appearance-action__9NNRY link_link__IZzHN link_underlined__OXYVM">Car
+        Dealer
+    </a> category
+    </p>
+</div>

@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  codec:
+    max-in-memory-size: 16MB
+
+trustpilot:
+  api:
+    base-url: https://www.trustpilot.com
+    domain-endpoint: /review/{domain}
+    rating-element-name: business-unit-title
+
+lombok:
+  copyableAnnotations: += org.springframework.beans.factory.annotation.Qualifier
